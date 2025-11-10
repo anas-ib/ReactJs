@@ -1,4 +1,3 @@
 # ReactJs!!
 
-Latest update
-new
+Latest updated
